@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Design_pattens
 {
-    internal class Usplug_Adaptee
+    public class Usplug_Adaptee
     {
+        public void connect()
+        {
+            Console.WriteLine("Usplug connected");
+        }
     }
 }

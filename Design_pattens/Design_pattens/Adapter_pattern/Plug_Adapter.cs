@@ -6,7 +6,25 @@ using System.Threading.Tasks;
 
 namespace Design_pattens
 {
-    internal class Plug_Adapter
+    public class Plug_Adapter : ISocket_Target
     {
+        private readonly Usplug_Adaptee _usplug;
+
+       
+
+        public Plug_Adapter(Usplug_Adaptee usplug)
+        {
+            _usplug=usplug;
+        }
+
+        public void PlugIn()
+        {
+            _usplug.connect();
+        }
+    }
+
+    public interface ISocket_Target
+    {
+        void PlugIn();
     }
 }
