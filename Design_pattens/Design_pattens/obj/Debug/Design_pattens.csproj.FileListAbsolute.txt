@@ -1,0 +1,7 @@
+D:\project\Design_Patterns\Design_pattens\Design_pattens\bin\Debug\Design_pattens.exe.config
+D:\project\Design_Patterns\Design_pattens\Design_pattens\bin\Debug\Design_pattens.exe
+D:\project\Design_Patterns\Design_pattens\Design_pattens\bin\Debug\Design_pattens.pdb
+D:\project\Design_Patterns\Design_pattens\Design_pattens\obj\Debug\Design_pattens.csproj.AssemblyReference.cache
+D:\project\Design_Patterns\Design_pattens\Design_pattens\obj\Debug\Design_pattens.csproj.CoreCompileInputs.cache
+D:\project\Design_Patterns\Design_pattens\Design_pattens\obj\Debug\Design_pattens.exe
+D:\project\Design_Patterns\Design_pattens\Design_pattens\obj\Debug\Design_pattens.pdb
