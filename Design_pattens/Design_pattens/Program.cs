@@ -13,34 +13,34 @@ namespace Design_pattens
         {  //Singleton Design pattern
 
 
-            //     Console.WriteLine("Singleton Pattern Demonstration:");
+            //Console.WriteLine("Singleton Pattern Demonstration:");
 
-            //    // Accessing the singleton instance
-            //    Singleton instance1 = Singleton.Instance;
-            //    Singleton instance2 = Singleton.Instance;
+            //// Accessing the singleton instance
+            //Singleton instance1 = Singleton.Instance;
+            //Singleton instance2 = Singleton.Instance;
 
-            //    // Check if both references point to the same instance
-            //    if (instance1 == instance2)
-            //    {
-            //        Console.WriteLine("Both references point to the same instance.");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Different instances exist.");
-            //    }
+            //// Check if both references point to the same instance
+            //if (instance1 == instance2)
+            //{
+            //    Console.WriteLine("Both references point to the same instance.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Different instances exist.");
+            //}
 
-            //    // Call a method on the singleton instance
-            //    instance1.DoSomething();
+            //// Call a method on the singleton instance
+            //instance1.DoSomething();
 
             // ##########################Adapter Structural Design pattern########################################################
 
-            //Console.WriteLine("Adapter Structural Design Patterns");
+            Console.WriteLine("Adapter Structural Design Patterns");
 
-            //Usplug_Adaptee usplug = new Usplug_Adaptee();
+            Usplug_Adaptee usplug = new Usplug_Adaptee();
 
-            //ISocket_Target adapter = new Plug_Adapter(usplug);
+            ISocket_Target adapter = new Plug_Adapter(usplug);
 
-            //adapter.PlugIn();
+            adapter.PlugIn();
 
             // ##########################observer Behabvioral Design pattern########################################################
 

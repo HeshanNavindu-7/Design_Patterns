@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_pattens", "Design_pattens\Design_pattens.csproj", "{A9E32681-43C6-4ED4-8084-E979D02BADE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sigleton pattern", "Sigleton pattern", "{7955BF74-5368-45AA-A44D-6610A2ABD0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E32681-43C6-4ED4-8084-E979D02BADE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E32681-43C6-4ED4-8084-E979D02BADE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E32681-43C6-4ED4-8084-E979D02BADE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E32681-43C6-4ED4-8084-E979D02BADE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E561795-82C8-4AE4-9536-EBDFE310E6BF}
+	EndGlobalSection
+EndGlobal

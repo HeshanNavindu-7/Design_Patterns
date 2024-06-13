@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Design_Patterns\\Design_pattens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|D:\\project\\Design_Patterns\\Design_pattens\\design_pattens\\observer_pattern\\user_observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\observer_pattern\\user_observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|d:\\project\\design_patterns\\design_pattens\\design_pattens\\observer_pattern\\stockmarket_subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\observer_pattern\\stockmarket_subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|D:\\project\\Design_Patterns\\Design_pattens\\design_pattens\\adapter_pattern\\usplug_adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\adapter_pattern\\usplug_adaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|D:\\project\\Design_Patterns\\Design_pattens\\design_pattens\\adapter_pattern\\plug_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\adapter_pattern\\plug_adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|D:\\project\\Design_Patterns\\Design_pattens\\design_pattens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|D:\\project\\Design_Patterns\\Design_pattens\\design_pattens\\sigleton_pattern\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E32681-43C6-4ED4-8084-E979D02BADE5}|Design_pattens\\Design_pattens.csproj|solutionrelative:design_pattens\\sigleton_pattern\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_observer.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Observer_pattern\\User_observer.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Observer_pattern\\User_observer.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Observer_pattern\\User_observer.cs",
+              "RelativeToolTip": "Design_pattens\\Observer_pattern\\User_observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:23:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockMarket_subject.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Observer_pattern\\StockMarket_subject.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Observer_pattern\\StockMarket_subject.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Observer_pattern\\StockMarket_subject.cs",
+              "RelativeToolTip": "Design_pattens\\Observer_pattern\\StockMarket_subject.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwCEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:22:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usplug_Adaptee.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Adapter_pattern\\Usplug_Adaptee.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Adapter_pattern\\Usplug_Adaptee.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Adapter_pattern\\Usplug_Adaptee.cs",
+              "RelativeToolTip": "Design_pattens\\Adapter_pattern\\Usplug_Adaptee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:06:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plug_Adapter.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Adapter_pattern\\Plug_Adapter.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Adapter_pattern\\Plug_Adapter.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Adapter_pattern\\Plug_Adapter.cs",
+              "RelativeToolTip": "Design_pattens\\Adapter_pattern\\Plug_Adapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:04:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Sigleton_pattern\\Singleton.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Sigleton_pattern\\Singleton.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Sigleton_pattern\\Singleton.cs",
+              "RelativeToolTip": "Design_pattens\\Sigleton_pattern\\Singleton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:49:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Program.cs",
+              "RelativeDocumentMoniker": "Design_pattens\\Program.cs",
+              "ToolTip": "D:\\project\\Design_Patterns\\Design_pattens\\Design_pattens\\Program.cs",
+              "RelativeToolTip": "Design_pattens\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:22:04.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1028,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
